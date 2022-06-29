@@ -1,3 +1,12 @@
+
+*I tried to fetch json api from another site with "fetch" in React.
+*I used functional component in this application.
+*In addition to the api captured with fetch in the application, I also showed the data extraction process with axios in the *comments lines in the same way.
+*I made the captured data visually ready for the user using CSS3.
+*I tried to make it responsive for various devices by using grid structure in CSS.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
