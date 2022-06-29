@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/breaking-bad-characters-cards-json-api/static/css/main.a74c0b44.css",
+    "main.js": "/breaking-bad-characters-cards-json-api/static/js/main.42073dc1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/breaking-bad-characters-cards-json-api/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/breaking-bad-characters-cards-json-api/index.html",
+    "main.a74c0b44.css.map": "/breaking-bad-characters-cards-json-api/static/css/main.a74c0b44.css.map",
+    "main.42073dc1.js.map": "/breaking-bad-characters-cards-json-api/static/js/main.42073dc1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/breaking-bad-characters-cards-json-api/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a74c0b44.css",
+    "static/js/main.42073dc1.js"
+  ]
+}
